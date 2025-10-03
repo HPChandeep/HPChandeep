@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **pasinduchandeep1017@gmail.com**
 
-- ⚡ Fun fact call me as **Batman**
+- ⚡ Fun fact call me as **Batman** **hi**
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -47,4 +47,4 @@
 
 <center>
 <h3 align = "center"  >Support:</h3>
-<p align = "center" ><a align= "center" href="https://www.buymeacoffee.com/hpchandeep"> <img align="center"  src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hpchandeep" /></a></p><br><br></center>
+<p align = "center" ><a align= "center" href="https://www.buymeacoffee.com/hpchandeep"> <img align="center"  src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hpchandeep" /></a></p><br><br></center> 
